@@ -7,7 +7,7 @@ from urllib.parse import quote
 # Constants
 SUPPORTED_EXTENSIONS = ('.jpg', '.jpeg', '.png', '.webp')
 WALLPAPER_DIR = Path('wallpapers')
-RAW_BASE_URL = "https://raw.githubusercontent.com/wallpapers"
+RAW_BASE_URL = "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers"
 
 def generate_thumbnail(image_path: Path, thumbnail_path: Path):
     thumbnail_path.parent.mkdir(parents=True, exist_ok=True)
