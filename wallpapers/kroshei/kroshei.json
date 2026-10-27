@@ -1,9 +1,15 @@
 [
   {
-    "name": "Spider Dew",
+    "name": "Tropicality",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/Spider_Dew-Flawed_Koncepts.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/Spider_Dew-Flawed_Koncepts.jpg"
+    "url": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/Tropicality-Flawed_Koncepts.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/Tropicality-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Corally",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/Corally-Flawed_Koncepts.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/Corally-Flawed_Koncepts.jpg"
   },
   {
     "name": "Street Neons",
@@ -18,21 +24,27 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/Mahiwaga-Flawed_Koncepts.jpg"
   },
   {
+    "name": "Shot Through",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/Shot_Through-Flawed_Koncepts.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/Shot_Through-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "The Ridges",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/The_Ridges-Flawed_Koncepts.webp",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/The_Ridges-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Corally",
+    "name": "Just Us",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/Corally-Flawed_Koncepts.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/Corally-Flawed_Koncepts.jpg"
+    "url": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/Just_Us-Flawed_Koncepts.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/Just_Us-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Tropicality",
+    "name": "Spider Dew",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/Tropicality-Flawed_Koncepts.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/Tropicality-Flawed_Koncepts.jpg"
+    "url": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/Spider_Dew-Flawed_Koncepts.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/FlawedKoncepts/main/wallpapers/kroshei/thumbnails/Spider_Dew-Flawed_Koncepts.jpg"
   }
 ]
